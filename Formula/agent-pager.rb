@@ -1,8 +1,8 @@
 class AgentPager < Formula
   desc "Durable local messaging between agent implementations"
   homepage "https://github.com/haywoodmarx/agent-pager"
-  url "https://registry.npmjs.org/@haywoodmarx/agent-pager/-/agent-pager-0.2.0.tgz"
-  sha256 "b562604234974d68acf3941bc3f8e467615e6b1ab5a377db08c65cd506aab687"
+  url "https://registry.npmjs.org/@haywoodmarx/agent-pager/-/agent-pager-0.2.1.tgz"
+  sha256 "0b6f8bd2b2779aad36266cdcc4bd88be1da2962c68164e2f3019d93ed1534643"
   license "MIT"
 
   depends_on "bun"
